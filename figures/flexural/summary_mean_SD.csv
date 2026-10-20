@@ -1,0 +1,7 @@
+,Flexural_Strength_MPa,Flexural_Strength_MPa,Maximum_Load_kN,Maximum_Load_kN,Flexural_Modulus_GPa,Flexural_Modulus_GPa,Strain_at_Max_Stress_pct,Strain_at_Max_Stress_pct,Strain_at_Break_pct,Strain_at_Break_pct,Displacement_at_Max_Load_mm,Displacement_at_Max_Load_mm,Flexural_Toughness_MJ_m3,Flexural_Toughness_MJ_m3
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+Configuration,,,,,,,,,,,,,,
+L/L/P,19.801,,0.139,,0.141689167173891,,31.396,,44.832,,15.698,,6.82080318,
+L/P/L,21.79,,0.153,,0.177161063407451,,26.965,,33.263,,13.482,,5.437496974999999,
+P/L/P,20.227,,0.142,,0.16428919095274794,,21.982,,36.144,,10.991,,4.85936305,
+P/P/L,10.611,,0.075,,0.07252643591940307,,32.017,,51.833,,16.008,,4.369828739999999,
